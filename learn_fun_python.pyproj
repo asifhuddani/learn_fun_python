@@ -24,6 +24,9 @@
   <ItemGroup>
     <Compile Include="bandnamegenerator.py" />
     <Compile Include="guess_word..py" />
+    <Compile Include="hangman.py" />
+    <Compile Include="hangman_art.py" />
+    <Compile Include="hangman_words.py" />
     <Compile Include="learn_fun_python.py" />
     <Compile Include="password_generator.py" />
     <Compile Include="rock_paper_scissors.py" />
